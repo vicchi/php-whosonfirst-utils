@@ -1,0 +1,24 @@
+{
+    "name": "vicchi/php-whosonfirst-utils",
+    "description": "Whosonfirst utility classes",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gary Gale",
+            "email": "gary@vicchi.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "repositories": {
+        "packagist": {
+            "url": "https://packagist.org",
+            "type": "composer"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Whosonfirst\\": "Whosonfirst"
+        }
+    }
+}
